@@ -1,6 +1,6 @@
 <p align="center"><img src="https://raw.githubusercontent.com/KevinPatel04/KevinPatel04/master/header.png"></p>
 
-<h1 align="center">Hola <img src="https://raw.githubusercontent.com/KevinPatel04/KevinPatel04/master/Hi.gif" width="30px">, Soy Marcelo Cajal </h1>
+<h1 align="center">Hola, Soy Marcelo Cajal <img src="https://raw.githubusercontent.com/KevinPatel04/KevinPatel04/master/Hi.gif" width="30px"></h1>
 
 <p align="center" width="150px"> Soy un apasionado desarrollador Full Stack con experiencia en la creación de aplicaciones web innovadoras y escalables. Mi enfoque se centra en la implementación de soluciones tecnológicas eficientes que impulsen el rendimiento y la experiencia del usuario.</p>
 
